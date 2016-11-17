@@ -1,0 +1,17 @@
+{
+	"category" : "Tetris",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PhilippeBack 11/17/2016 16:48",
+	"instvars" : [
+		"payload",
+		"event",
+		"morph",
+		"callbackName" ],
+	"name" : "TetrisEventFeedbackAnnouncement",
+	"pools" : [
+		 ],
+	"super" : "Announcement",
+	"type" : "normal" }

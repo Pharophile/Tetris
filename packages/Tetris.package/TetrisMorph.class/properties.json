@@ -1,0 +1,19 @@
+{
+	"category" : "Tetris",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PhilippeBack 11/17/2016 16:08",
+	"instvars" : [
+		"canvas",
+		"score",
+		"feedback",
+		"showOnTranscript",
+		"openAnnouncementInspector",
+		"trail" ],
+	"name" : "TetrisMorph",
+	"pools" : [
+		 ],
+	"super" : "MorphicModel",
+	"type" : "normal" }
