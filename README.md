@@ -15,3 +15,13 @@ Metacello new
     onWarningLog;
     load
 ```
+
+So, this helps in seeing what is going on with events and handlers in Morphic.
+
+![TetrisMorph overview](Events1.png)
+
+The announcer can be inspected as I am using the ZnLogEvent annoucer. Inspecting is with GTInspector is easy.
+
+![Inspecting Announcements](Events2.png)
+
+
